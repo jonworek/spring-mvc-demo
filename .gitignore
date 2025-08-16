@@ -1,0 +1,33 @@
+# Ignore .vscode settings
+.vscode/
+
+# Ignore Maven target directory
+target/
+
+# Ignore IDE specific files
+*.iml
+.idea/
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore build output
+*.war
+*.jar
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore dependency directories
+**/node_modules/
+**/out/
+
+# Ignore environment files
+.env
+.env.local
